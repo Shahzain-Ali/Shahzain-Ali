@@ -62,6 +62,8 @@ A structured, tiered guide to building autonomous AI Employees (Digital FTEs) �
 
 **Tools:** Claude Code · Git · GitHub
 
+**Development Approach:** SpecKit Plus · Spec-Driven Development
+
 ---
 
 ## Certifications & Education
