@@ -29,14 +29,14 @@ I build AI agents, chatbots, and automation systems that eliminate repetitive wo
 
 ### AI Employee System
 An autonomous AI agent managing email, social media (5 platforms), and accounting — with human approval for sensitive actions.
-- **6 MCP Servers** | **28 Tools** | **17 Agent Skills**
+- **7 MCP Servers** | **31 Tools** | **17 Agent Skills**
 - Architecture: Perception → Reasoning → Action
 - Stack: Python · Claude Code · MCP Servers · Streamlit · PostgreSQL · Playwright · Docker
 - [View Repository](https://github.com/Shahzain-Ali/ai-employee-fte-system)
 
 ### Agentic Invoice Generator
 Fully automated invoice pipeline — from raw data to delivered PDF.
-- **~35 seconds** per invoice, zero manual steps
+- **less than 1 minute* per invoice, zero manual steps
 - Accepts: Web forms · Google Sheets · Excel
 - Stack: Python · FastAPI · OpenAI Agents SDK · Streamlit · n8n
 - [View Repository](https://github.com/Shahzain-Ali/agentic-invoice-generator)
