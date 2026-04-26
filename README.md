@@ -87,8 +87,8 @@ A structured, tiered guide to building autonomous AI Employees (Digital FTEs) â€
 
 ## Let's Connect
 
-- **Email:** alishahzain604@gmail.com
-- **LinkedIn:** [Shahzain Ali](https://www.linkedin.com/in/shahzain-ali-518b862ba/)
+- **Email:** enshahzainali110@gmail.com
+- **LinkedIn:** [Shahzain Ali](https://www.linkedin.com/in/shahzain-ali1)
 - **GitHub:** You're already here
 
 **Open to freelance projects, remote roles, and collaboration.**
